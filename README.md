@@ -1,4 +1,4 @@
-# UNP-project_BI-with-power-BI_Human-
+# UNP-Project_BI-with-power-BI_Human-
 
 completed this project as the part of my BI with power BI with united network of professionals (UNP).
 
