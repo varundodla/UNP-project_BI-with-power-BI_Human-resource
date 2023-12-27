@@ -10,5 +10,6 @@ Key highlights
 
 PBIX link: https://drive.google.com/file/d/1wBOjaiTcACeUq3-8g7jRy8DgN5zzaKPA/view?usp=sharing
 PDF link: https://drive.google.com/file/d/1wBOjaiTcACeUq3-8g7jRy8DgN5zzaKPA/view?usp=sharing
+canva link:https://drive.google.com/file/d/1y5lmZdl6fMLvevjipM-a4mZxhwFSnSJr/view?usp=drive_link
 
     
